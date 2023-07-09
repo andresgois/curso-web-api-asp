@@ -16,6 +16,8 @@ dotnet --list-sdks
 
 dotnet new console --framework net6.0
 ```
+- [Acesso demo2 swagger](https://localhost:7164/swagger/index.html)
+
 - [Baixar .NET 6.0](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
 
 ## IDE
